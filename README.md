@@ -48,7 +48,7 @@ A full-stack MERN application integrated with a complete **Jenkins + Docker + AW
 
 ## 📬 Connect With Me
 🔗 [GitHub](https://github.com/i-damale)  
-💼 [LinkedIn](https://linkedin.com/in/somnath-damale)
+💼 [LinkedIn](https://linkedin.com/in/somnathdamale)
 
 ---
 
